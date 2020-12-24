@@ -221,7 +221,7 @@ body {
 .service {
 
     color: white;
-    padding: 50px;
+/*     padding: 50px; */
 /*     margin-top: 50px; */
     align-items: center;
     justify-content: space-between;
@@ -265,7 +265,7 @@ body {
 
 .services {
     text-align: center;
-    padding-bottom: 80px;
+/*     padding-bottom: 80px; */
     /* #6800BF */
     background-color: #6800BF;
     /* #111;
